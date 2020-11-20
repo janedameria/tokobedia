@@ -1,0 +1,310 @@
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\obj\Debug\TM1.csprojResolveAssemblyReference.cache
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\ApplicationInsights.config
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\roslyn\csc.exe
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\roslyn\vbc.exe
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\roslyn\VBCSCompiler.exe
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\TM1.dll.config
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\TM1.dll
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\TM1.pdb
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\EntityFramework.dll
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\EntityFramework.SqlServer.dll
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\Microsoft.AI.Web.dll
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\Microsoft.AI.WindowsServer.dll
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\Microsoft.ApplicationInsights.dll
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\EntityFramework.xml
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\EntityFramework.SqlServer.xml
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\Microsoft.AI.Web.xml
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\Microsoft.AI.WindowsServer.xml
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\Microsoft.ApplicationInsights.xml
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\obj\Debug\TM1.dll
+c:\users\jayam\documents\visual studio 2015\Projects\TM1\TM1\obj\Debug\TM1.pdb
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\obj\Debug\TM1.csprojResolveAssemblyReference.cache
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\obj\Debug\TM1.dll
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\obj\Debug\TM1.pdb
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\ApplicationInsights.config
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\roslyn\csc.exe
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\roslyn\vbc.exe
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\roslyn\VBCSCompiler.exe
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\TM1.dll.config
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\TM1.dll
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\TM1.pdb
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\EntityFramework.dll
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\EntityFramework.SqlServer.dll
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\Microsoft.AI.Web.dll
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\EntityFramework.xml
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\EntityFramework.SqlServer.xml
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\Microsoft.AI.Web.xml
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jayam\Documents\Visual Studio 2015\TM1\TM1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\ApplicationInsights.config
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\roslyn\csc.exe
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\roslyn\System.Collections.Immutable.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\roslyn\vbc.exe
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\roslyn\VBCSCompiler.exe
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\roslyn\VBCSCompiler.exe.config
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\TM1.dll.config
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\TM1.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\TM1.pdb
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\EntityFramework.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\EntityFramework.SqlServer.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\Microsoft.AI.DependencyCollector.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\Microsoft.AI.Web.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\Microsoft.AI.WindowsServer.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\Microsoft.ApplicationInsights.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\EntityFramework.xml
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\EntityFramework.SqlServer.xml
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\Microsoft.AI.DependencyCollector.xml
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\Microsoft.AI.Web.xml
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\Microsoft.AI.WindowsServer.xml
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\Microsoft.ApplicationInsights.xml
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\obj\Debug\TM1.csprojResolveAssemblyReference.cache
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\obj\Debug\TM1.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\TM1\TM1\obj\Debug\TM1.pdb
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\ApplicationInsights.config
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\roslyn\csc.exe
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\roslyn\System.Collections.Immutable.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\roslyn\vbc.exe
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\roslyn\VBCSCompiler.exe
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\roslyn\VBCSCompiler.exe.config
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\TM1.dll.config
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\TM1.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\TM1.pdb
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\EntityFramework.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\EntityFramework.SqlServer.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\Microsoft.AI.DependencyCollector.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\Microsoft.AI.Web.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\Microsoft.AI.WindowsServer.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\Microsoft.ApplicationInsights.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\EntityFramework.xml
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\EntityFramework.SqlServer.xml
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\Microsoft.AI.DependencyCollector.xml
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\Microsoft.AI.Web.xml
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\Microsoft.AI.WindowsServer.xml
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\Microsoft.ApplicationInsights.xml
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\obj\Debug\TM1.csprojResolveAssemblyReference.cache
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\obj\Debug\TM1.dll
+D:\Pelajaran\Kuliah Semester 4\Pattern Software Design\2201853753\TM1\obj\Debug\TM1.pdb
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\ApplicationInsights.config
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\roslyn\csc.exe
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\roslyn\System.Collections.Immutable.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\roslyn\vbc.exe
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\roslyn\VBCSCompiler.exe
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\roslyn\VBCSCompiler.exe.config
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\TM1.dll.config
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\TM1.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\TM1.pdb
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\EntityFramework.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\EntityFramework.SqlServer.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\Microsoft.AI.DependencyCollector.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\Microsoft.AI.Web.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\Microsoft.AI.WindowsServer.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\Microsoft.ApplicationInsights.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\EntityFramework.xml
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\EntityFramework.SqlServer.xml
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\Microsoft.AI.DependencyCollector.xml
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\Microsoft.AI.Web.xml
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\Microsoft.AI.WindowsServer.xml
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\Microsoft.ApplicationInsights.xml
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\obj\Debug\TM1.csprojResolveAssemblyReference.cache
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\obj\Debug\TM1.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\obj\Debug\TM1.pdb
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\CrystalDecisions.ReportSource.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\CrystalDecisions.Shared.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\CrystalDecisions.Web.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Pelajaran\Semester 4\PSD\2201853753\2201853753\TM1\bin\stdole.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\ApplicationInsights.config
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\roslyn\csc.exe
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\roslyn\System.Collections.Immutable.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\roslyn\vbc.exe
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\roslyn\VBCSCompiler.exe
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\roslyn\VBCSCompiler.exe.config
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\TM1.dll.config
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\TM1.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\TM1.pdb
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\CrystalDecisions.ReportSource.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\CrystalDecisions.Shared.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\CrystalDecisions.Web.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\EntityFramework.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\EntityFramework.SqlServer.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\Microsoft.AI.DependencyCollector.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\Microsoft.AI.Web.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\Microsoft.AI.WindowsServer.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\Microsoft.ApplicationInsights.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\stdole.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\EntityFramework.xml
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\EntityFramework.SqlServer.xml
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\Microsoft.AI.DependencyCollector.xml
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\Microsoft.AI.Web.xml
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\Microsoft.AI.WindowsServer.xml
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\Microsoft.ApplicationInsights.xml
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\obj\Debug\TM1.csprojResolveAssemblyReference.cache
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\obj\Debug\TM1.dll
+D:\Pelajaran\Semester 4\PSD\Project\Project\TM1\obj\Debug\TM1.pdb
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\ApplicationInsights.config
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\roslyn\csc.exe
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\roslyn\System.Collections.Immutable.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\roslyn\vbc.exe
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\roslyn\VBCSCompiler.exe
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\roslyn\VBCSCompiler.exe.config
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\TM1.dll.config
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\TM1.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\TM1.pdb
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\CrystalDecisions.ReportSource.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\CrystalDecisions.Shared.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\CrystalDecisions.Web.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\EntityFramework.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\EntityFramework.SqlServer.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\Microsoft.AI.DependencyCollector.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\Microsoft.AI.Web.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\Microsoft.AI.WindowsServer.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\Microsoft.ApplicationInsights.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\stdole.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\EntityFramework.xml
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\EntityFramework.SqlServer.xml
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\Microsoft.AI.DependencyCollector.xml
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\Microsoft.AI.Web.xml
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\Microsoft.AI.WindowsServer.xml
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\Microsoft.ApplicationInsights.xml
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\obj\Debug\TM1.csprojResolveAssemblyReference.cache
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\obj\Debug\TM1.dll
+D:\Code 2.0\Project My\13 - tokobedia\Project\TM1\obj\Debug\TM1.pdb

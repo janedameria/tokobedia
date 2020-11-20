@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a0e75e1122914861a983708b5d66e5b2" Name="Diagram1" ZoomLevel="64">
+        <EntityTypeShape EntityType="TokobediaEntitiesModel.Detail_Transaction" Width="1.5" PointX="0.5" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="TokobediaEntitiesModel.Header_Transaction" Width="1.5" PointX="0.5" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="TokobediaEntitiesModel.Product_Type" Width="1.5" PointX="6" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="TokobediaEntitiesModel.Product" Width="1.5" PointX="0.5" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="TokobediaEntitiesModel.Role" Width="1.5" PointX="6" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="TokobediaEntitiesModel.User" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="TokobediaEntitiesModel.FK__Detail_Tr__Produ__2A164134" ManuallyRouted="false" />
+        <AssociationConnector Association="TokobediaEntitiesModel.FK__Detail_Tr__Trans__4AB81AF0" ManuallyRouted="false" />
+        <AssociationConnector Association="TokobediaEntitiesModel.FK__Header_Tr__UserI__6FE99F9F" ManuallyRouted="false" />
+        <AssociationConnector Association="TokobediaEntitiesModel.FK__Products__Produc__29221CFB" ManuallyRouted="false" />
+        <AssociationConnector Association="TokobediaEntitiesModel.FK__Users__RoleID__70DDC3D8" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="TokobediaEntitiesModel.Cart" Width="1.5" PointX="6" PointY="0.75" />
+        <EntityTypeShape EntityType="TokobediaEntitiesModel.PaymentType" Width="1.5" PointX="3" PointY="5.75" />
+        <AssociationConnector Association="TokobediaEntitiesModel.FK__Carts__ProductID__40058253" />
+        <AssociationConnector Association="TokobediaEntitiesModel.FK__Carts__UserID__3F115E1A" />
+        <AssociationConnector Association="TokobediaEntitiesModel.FK__Header_Tr__Payme__3C34F16F" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
